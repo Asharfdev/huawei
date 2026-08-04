@@ -1,7 +1,7 @@
 {
   "newAppStatus": "off",
-  "appPackage": "com.luminatv.tvshowmovies1",
-  "active_ad_network": "yandex", 
+  "appPackage": "com.moviebox.greendramaf4",
+  "active_ad_network": "yandex",
   
   "applovin_api_key": "drgVzz14PWsRLfTzJFE_cp0vsxxdDbNCJPzpl4LCdvTseNx7oV5vnI3AsAiRStodGdVzP3Lxgo7zusf0nZ1fuh",
   "applovin_banner_id": "0000000000",
@@ -9,7 +9,8 @@
   "applovin_native_id": "0000000000",
   "applovin_reward_id": "0000000000",
   
-  "yandex_interstitial_id": "demo-interstitial-yandex",
-  "yandex_app_open_id": "demo-appopenad-yandex"
+  "yandex_interstitial_id": "R-M-19499585-1",
+  "yandex_app_open_id": "R-M-19499585-2"
 }
+
 
