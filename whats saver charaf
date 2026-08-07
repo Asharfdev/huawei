@@ -1,0 +1,13 @@
+{
+  "ads_enabled": true,
+  "provider": "yandex",
+  "huawei_ad_unit_id": "testb4znbuh3n2",
+  "yandex_ad_unit_id": "demo-interstitial-yandex",
+  "app_open_enabled": true,
+  "click_ads_enabled": true,
+  "status_saver_open_enabled": true,
+  "status_saver_save_enabled": true,
+  "download_enabled": true,
+  "click_frequency_min": 3,
+  "click_frequency_max": 4
+}
