@@ -10,5 +10,5 @@
   "download_enabled": true,
   "click_frequency_min": 3,
   "click_frequency_max": 4,
-  "minimum_interval_seconds": 35
+  "minimum_interval_seconds": 25
 }
