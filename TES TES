@@ -1,6 +1,6 @@
 {
-  "active_ad_network": "yandex",
-  "applovin_api_key": "drgVzz14PWsRLfTzJFE_cp0vsxxdDbNCJPzpl4LCdvTseNx7oV5vnI3AsAiRStodGdVzP3Lxgo7zusf0nZ1fuh",
-  "applovin_interstitial_id": "YOUR_REAL_APPLOVIN_INTERSTITIAL_ID",
+  "active_ad_network": "applovin",
+  "applovin_api_key": "zuHPLc4JzAZVcvX-Oz1xUr1LID7Et3MpxIrI0TozMKtyiaJM4xlaIcml1TD0emF1WVUuiC74vmE1ioRavlPfzq",
+  "applovin_interstitial_id": "cf449de3be714975",
   "yandex_interstitial_id": "demo-interstitial-yandex"
 }
