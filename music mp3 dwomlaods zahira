@@ -1,14 +1,6 @@
 {
-  "newAppStatus": "off",
-  "appPackage": "com.moviebox.greendramaf4",
   "active_ad_network": "yandex",
-  
   "applovin_api_key": "drgVzz14PWsRLfTzJFE_cp0vsxxdDbNCJPzpl4LCdvTseNx7oV5vnI3AsAiRStodGdVzP3Lxgo7zusf0nZ1fuh",
-  "applovin_banner_id": "0000000000",
-  "applovin_interstitial_id": "0000000000",
-  "applovin_native_id": "0000000000",
-  "applovin_reward_id": "0000000000",
-  
-  "yandex_interstitial_id": "demo-interstitial-yandex",
-  "yandex_app_open_id": "demo-appopenad-yandex"
+  "applovin_interstitial_id": "YOUR_REAL_APPLOVIN_INTERSTITIAL_ID",
+  "yandex_interstitial_id": "demo-interstitial-yandex"
 }
