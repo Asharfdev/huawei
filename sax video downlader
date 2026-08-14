@@ -1,5 +1,5 @@
 {
-  "ads_enabled": false,
+  "ads_enabled": true,
   "provider": "yandex",
   "huawei_ad_unit_id": "testb4znbuh3n2",
   "yandex_ad_unit_id": "demo-interstitial-yandex",
