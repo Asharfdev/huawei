@@ -1,5 +1,5 @@
 {
-  "active_ad_network": "applovin",
+  "active_ad_network": "none",
   "applovin_api_key": "zuHPLc4JzAZVcvX-Oz1xUr1LID7Et3MpxIrI0TozMKtyiaJM4xlaIcml1TD0emF1WVUuiC74vmE1ioRavlPfzq",
   "applovin_interstitial_id": "9c4759c6fdc00e0b",
   "yandex_interstitial_id": "demo-interstitial-yandex"
