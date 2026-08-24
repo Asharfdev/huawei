@@ -2,10 +2,6 @@
   "newAppStatus": "off",
   "appPackage": "com.moviebox.greendramaf4",
 
-  "webViewEnabled": true,
-  "defaultMode": "web",
-  "webViewUrl": "https://tinyzonetv.app/movies/",
-
   "active_ad_network": "none",
   "applovin_api_key": "zuHPLc4JzAZVcvX-Oz1xUr1LID7Et3MpxIrI0TozMKtyiaJM4xlaIcml1TD0emF1WVUuiC74vmE1ioRavlPfzq",
   "applovin_interstitial_id": "bc61e97902744314",
