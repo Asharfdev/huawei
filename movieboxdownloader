@@ -1,8 +1,8 @@
 {
   "active_ad_network": "huawei",
   "huawei_interstitial_id": "testb4znbuh3n2",
-  "interstitial_enabled": true,
-  "app_open_enabled": true,
+  "interstitial_enabled": false,
+  "app_open_enabled": false,
   "interstitial_every": 1,
   "app_open_min_background_seconds": 60
 }
